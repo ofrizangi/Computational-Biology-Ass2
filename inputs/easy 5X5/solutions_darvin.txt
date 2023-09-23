@@ -1,0 +1,6688 @@
+number of generation: 0
+
+best solution:
+|2|   |1|   |5|   |4|   |3|   
+ v     ^           ^          
+|1|   |2|   |3|   |4|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 7
+average fitness grade: 11.61
+
+number of generation: 1
+
+best solution:
+|4|   |1|   |5|   |2|   |3|   
+ v     ^           ^          
+|2|   |3|   |4|   |5|   |1|   
+ v                       v    
+|5|   |1|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 6
+average fitness grade: 11.32
+
+number of generation: 2
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|2|   |3|   |4|   |5|   |1|   
+ v                       v    
+|5|   |1|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 11.31
+
+number of generation: 3
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|5|   |3|   |4|   |2|   |1|   
+ v                       v    
+|5|   |1|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 11.32
+
+number of generation: 4
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|5|   |3|   |2|   |4|   |1|   
+ v                       v    
+|5|   |1|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 6
+average fitness grade: 10.65
+
+number of generation: 5
+
+best solution:
+|5|   |1|   |4|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |1|   |5|   |4|   |3|   
+                   ^          
+|1|   |3|   |2|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 10.57
+
+number of generation: 6
+
+best solution:
+|5|   |1|   |4|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |1|   |5|   |4|   |3|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 6
+average fitness grade: 10.25
+
+number of generation: 7
+
+best solution:
+|5|   |4|   |1|   |2|   |3|   
+ v     ^           ^          
+|3|   |2|   |5|   |1|   |4|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 9.74
+
+number of generation: 8
+
+best solution:
+|4|   |1|   |5|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|5|   |1|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 9.46
+
+number of generation: 9
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|5|   |1|   |2|   |3|   |4|   
+                   ^          
+|3|   |2|   |4|   |5| < |1|   
+                              
+|4|   |5|   |1| < |3|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 9.65
+
+number of generation: 10
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|2|   |3|   |1|   |5|   |4|   
+ v                       v    
+|5|   |1|   |2|   |3|   |4|   
+                   ^          
+|1|   |4|   |2|   |3| < |5|   
+                              
+|3|   |5|   |1| < |4|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 9.33
+
+number of generation: 11
+
+best solution:
+|4|   |1|   |5|   |2|   |3|   
+ v     ^           ^          
+|2|   |3|   |1|   |5|   |4|   
+ v                       v    
+|5|   |4|   |2|   |3|   |1|   
+                   ^          
+|1|   |4|   |2|   |3| < |5|   
+                              
+|3|   |5|   |1| < |4|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 8.86
+
+number of generation: 12
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.88
+
+number of generation: 13
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.94
+
+number of generation: 14
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|5|   |1|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 8.99
+
+number of generation: 15
+
+best solution:
+|4|   |1|   |5|   |2|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|2|   |3|   |5|   |1|   |4|   
+                   ^          
+|5|   |1|   |2|   |3| < |4|   
+                              
+|3|   |5|   |1| < |4|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 8.65
+
+number of generation: 16
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |1|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 8.62
+
+number of generation: 17
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|5|   |4|   |2|   |3|   |1|   
+ v                       v    
+|3|   |4|   |1|   |2|   |5|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.59
+
+number of generation: 18
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|5|   |1|   |3|   |2|   |4|   
+                   ^          
+|1|   |5|   |2|   |3| < |4|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.24
+
+number of generation: 19
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|5|   |4|   |3|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|5|   |4|   |1| < |3|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 8.27
+
+number of generation: 20
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |2|   |3|   |5|   
+ v                       v    
+|5|   |1|   |3|   |2|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.26
+
+number of generation: 21
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |2|   |3|   |5|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.29
+
+number of generation: 22
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|2|   |1|   |5|   |3|   |4|   
+                   ^          
+|4|   |5|   |2|   |3| < |1|   
+                              
+|1|   |5|   |3| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 8.16
+
+number of generation: 23
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |5|   |3| < |1|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.04
+
+number of generation: 24
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |5|   |1| < |4|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 7.91
+
+number of generation: 25
+
+best solution:
+|5|   |1|   |4|   |2|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|2|   |3|   |5|   |1|   |4|   
+                   ^          
+|1|   |5|   |2|   |3| < |4|   
+                              
+|1|   |5|   |3| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.72
+
+number of generation: 26
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 8.07
+
+number of generation: 27
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |5|   |3| < |4|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 8.19
+
+number of generation: 28
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|2|   |5|   |1|   |3|   |4|   
+                   ^          
+|1|   |3|   |2|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 8.09
+
+number of generation: 29
+
+best solution:
+|4|   |2|   |1|   |5|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|2|   |3|   |5|   |1|   |4|   
+                   ^          
+|5|   |1|   |2|   |3| < |4|   
+                              
+|1|   |5|   |3| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.88
+
+number of generation: 30
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|2|   |5|   |1|   |3|   |4|   
+                   ^          
+|1|   |3|   |2|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 8.16
+
+number of generation: 31
+
+best solution:
+|2|   |5|   |4|   |1|   |3|   
+ v     ^           ^          
+|5|   |4|   |3|   |2|   |1|   
+ v                       v    
+|2|   |5|   |1|   |3|   |4|   
+                   ^          
+|1|   |3|   |2|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.82
+
+number of generation: 32
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.91
+
+number of generation: 33
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.7
+
+number of generation: 34
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.79
+
+number of generation: 35
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|5|   |1|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |5|   |3| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.75
+
+number of generation: 36
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |5|   |4| < |1|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.91
+
+number of generation: 37
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.07
+
+number of generation: 38
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|5|   |4|   |3|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.8
+
+number of generation: 39
+
+best solution:
+|4|   |2|   |1|   |5|   |3|   
+ v     ^           ^          
+|5|   |4|   |3|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 7.8
+
+number of generation: 40
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.0
+
+number of generation: 41
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 8.1
+
+number of generation: 42
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|2|   |3|   |4|   |1|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|5|   |2|   |3|   |4| < |1|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.98
+
+number of generation: 43
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|2|   |3|   |4|   |1|   |5|   
+ v                       v    
+|1|   |5|   |2|   |4|   |3|   
+                   ^          
+|5|   |2|   |3|   |4| < |1|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 7.84
+
+number of generation: 44
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.79
+
+number of generation: 45
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.71
+
+number of generation: 46
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|4|   |5|   |2|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.55
+
+number of generation: 47
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.51
+
+number of generation: 48
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |5|   |4| < |1|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.3
+
+number of generation: 49
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.48
+
+number of generation: 50
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.57
+
+number of generation: 51
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.91
+
+number of generation: 52
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |5|   |3|   |4| < |1|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.92
+
+number of generation: 53
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.67
+
+number of generation: 54
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.58
+
+number of generation: 55
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|5|   |1|   |3| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.58
+
+number of generation: 56
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.47
+
+number of generation: 57
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.72
+
+number of generation: 58
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.2
+
+number of generation: 59
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|1|   |4|   |3|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.02
+
+number of generation: 60
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.81
+
+number of generation: 61
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.62
+
+number of generation: 62
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |5|   |4| < |1|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.89
+
+number of generation: 63
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.15
+
+number of generation: 64
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |5|   |3|   |4| < |1|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.0
+
+number of generation: 65
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.92
+
+number of generation: 66
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.15
+
+number of generation: 67
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |4|   |2|   |3|   |5|   
+                   ^          
+|2|   |5|   |3|   |4| < |1|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.29
+
+number of generation: 68
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.91
+
+number of generation: 69
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.86
+
+number of generation: 70
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |5|   |3|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.03
+
+number of generation: 71
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.92
+
+number of generation: 72
+
+best solution:
+|5|   |1|   |4|   |2|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |5|   |4| < |1|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.92
+
+number of generation: 73
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |5|   |3|   |4| < |1|   
+                              
+|5|   |1|   |4| < |3|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 6.79
+
+number of generation: 74
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.53
+
+number of generation: 75
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.58
+
+number of generation: 76
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.55
+
+number of generation: 77
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.44
+
+number of generation: 78
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.56
+
+number of generation: 79
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.66
+
+number of generation: 80
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.36
+
+number of generation: 81
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.32
+
+number of generation: 82
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.62
+
+number of generation: 83
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.92
+
+number of generation: 84
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.88
+
+number of generation: 85
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |4| < |1|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.03
+
+number of generation: 86
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|5|   |3|   |1|   |2|   |4|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.9
+
+number of generation: 87
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.27
+
+number of generation: 88
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.41
+
+number of generation: 89
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |4| < |1|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.98
+
+number of generation: 90
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.82
+
+number of generation: 91
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.12
+
+number of generation: 92
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|5|   |1|   |4| < |3|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.37
+
+number of generation: 93
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |1|   |5|   
+ v                       v    
+|2|   |5|   |1|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.4
+
+number of generation: 94
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|5|   |1|   |3| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.32
+
+number of generation: 95
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |4|   |1|   |3| < |5|   
+                              
+|5|   |1|   |3| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.32
+
+number of generation: 96
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |2|   |4|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |4|   |1|   |3| < |5|   
+                              
+|5|   |1|   |3| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.35
+
+number of generation: 97
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |5| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.28
+
+number of generation: 98
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.68
+
+number of generation: 99
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 7.53
+
+number of generation: 100
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.8
+
+number of generation: 101
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |4|   |1|   |3| < |5|   
+                              
+|5|   |1|   |3| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.77
+
+number of generation: 102
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.61
+
+number of generation: 103
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|4|   |5|   |2|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.61
+
+number of generation: 104
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |4|   |1|   |3| < |5|   
+                              
+|5|   |1|   |3| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.59
+
+number of generation: 105
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |1|   |5|   |2|   |4|   
+ v                       v    
+|4|   |5|   |2|   |3|   |1|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 5
+average fitness grade: 7.52
+
+number of generation: 106
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |4|   |3|   |1| < |5|   
+                              
+|3|   |1|   |5| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.33
+
+number of generation: 107
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.44
+
+number of generation: 108
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|3|   |1|   |2|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.53
+
+number of generation: 109
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.65
+
+number of generation: 110
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.68
+
+number of generation: 111
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.49
+
+number of generation: 112
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.41
+
+number of generation: 113
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.44
+
+number of generation: 114
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.27
+
+number of generation: 115
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|5|   |1|   |3| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.02
+
+number of generation: 116
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.83
+
+number of generation: 117
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.95
+
+number of generation: 118
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.04
+
+number of generation: 119
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.86
+
+number of generation: 120
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |2|   |4|   |1|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.0
+
+number of generation: 121
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|5|   |3|   |1|   |2|   |4|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |4|   |3|   |1| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.2
+
+number of generation: 122
+
+best solution:
+|4|   |1|   |5|   |2|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.19
+
+number of generation: 123
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.12
+
+number of generation: 124
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.09
+
+number of generation: 125
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.98
+
+number of generation: 126
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.15
+
+number of generation: 127
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.14
+
+number of generation: 128
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.85
+
+number of generation: 129
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.21
+
+number of generation: 130
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.16
+
+number of generation: 131
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |4| < |1|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.31
+
+number of generation: 132
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.27
+
+number of generation: 133
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |2|   |1|   |5|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.42
+
+number of generation: 134
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.11
+
+number of generation: 135
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.61
+
+number of generation: 136
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.72
+
+number of generation: 137
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.66
+
+number of generation: 138
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.28
+
+number of generation: 139
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.2
+
+number of generation: 140
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |2|   |4|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.22
+
+number of generation: 141
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.13
+
+number of generation: 142
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.3
+
+number of generation: 143
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |2|   |4|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.03
+
+number of generation: 144
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.95
+
+number of generation: 145
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.82
+
+number of generation: 146
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.64
+
+number of generation: 147
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |1|   |5|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.64
+
+number of generation: 148
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |1|   |5|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.44
+
+number of generation: 149
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.86
+
+number of generation: 150
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 7.04
+
+number of generation: 151
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.99
+
+number of generation: 152
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |1|   |5|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |5|   |4|   |3| < |1|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.01
+
+number of generation: 153
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.04
+
+number of generation: 154
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |5|   |3| < |4|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.02
+
+number of generation: 155
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |2|   |4|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.01
+
+number of generation: 156
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|5|   |4|   |2|   |3|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.07
+
+number of generation: 157
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |2|   |4|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.45
+
+number of generation: 158
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|5|   |4|   |2|   |3|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.46
+
+number of generation: 159
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.57
+
+number of generation: 160
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |4|   |3|   |2|   |5|   
+                   ^          
+|2|   |1|   |5|   |3| < |4|   
+                              
+|3|   |5|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.32
+
+number of generation: 161
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.25
+
+number of generation: 162
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |1|   |5|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |5| < |3|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.13
+
+number of generation: 163
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |1|   |5|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |5|   |3| < |4|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.36
+
+number of generation: 164
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.65
+
+number of generation: 165
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|2|   |4|   |5|   |3|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.74
+
+number of generation: 166
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|2|   |5|   |3|   |1|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.45
+
+number of generation: 167
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.68
+
+number of generation: 168
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.59
+
+number of generation: 169
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.71
+
+number of generation: 170
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |4|   |3|   |2|   |5|   
+                   ^          
+|2|   |1|   |5|   |3| < |4|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 7.86
+
+number of generation: 171
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|2|   |4|   |3|   |1|   |5|   
+                   ^          
+|2|   |1|   |5|   |3| < |4|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.83
+
+number of generation: 172
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.69
+
+number of generation: 173
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.81
+
+number of generation: 174
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 7.57
+
+number of generation: 175
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 7.24
+
+number of generation: 176
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.09
+
+number of generation: 177
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.19
+
+number of generation: 178
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.14
+
+number of generation: 179
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |2|   |5|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.25
+
+number of generation: 180
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |5|   |3|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.15
+
+number of generation: 181
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |3|   |5|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.12
+
+number of generation: 182
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|3|   |1|   |5|   |2|   |4|   
+                   ^          
+|2|   |4|   |1|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.11
+
+number of generation: 183
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.1
+
+number of generation: 184
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.94
+
+number of generation: 185
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.26
+
+number of generation: 186
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|4|   |5|   |3|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.04
+
+number of generation: 187
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.13
+
+number of generation: 188
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.21
+
+number of generation: 189
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |3|   |5|   |2|   |4|   
+                   ^          
+|4|   |1|   |3|   |2| < |5|   
+                              
+|5|   |4|   |1| < |3|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.12
+
+number of generation: 190
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |4|   |5|   |2|   |3|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.17
+
+number of generation: 191
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.9
+
+number of generation: 192
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.03
+
+number of generation: 193
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|4|   |5|   |2|   |3|   |1|   
+ v                       v    
+|1|   |3|   |5|   |2|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|5|   |4|   |1| < |3|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.03
+
+number of generation: 194
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.05
+
+number of generation: 195
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.85
+
+number of generation: 196
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.78
+
+number of generation: 197
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.06
+
+number of generation: 198
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.02
+
+number of generation: 199
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|3|   |2|   |5|   |1|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.99
+
+number of generation: 200
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.88
+
+number of generation: 201
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.89
+
+number of generation: 202
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|2|   |1|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.27
+
+number of generation: 203
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |3|   |5|   |2|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.19
+
+number of generation: 204
+
+best solution:
+|5|   |4|   |1|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.25
+
+number of generation: 205
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.42
+
+number of generation: 206
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.4
+
+number of generation: 207
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|2|   |1|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.16
+
+number of generation: 208
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.13
+
+number of generation: 209
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |4|   |5|   |2|   |3|   
+                   ^          
+|2|   |4|   |1|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.31
+
+number of generation: 210
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|3|   |2|   |5|   |1|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.33
+
+number of generation: 211
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|4|   |3|   |5|   |2|   |1|   
+ v                       v    
+|1|   |5|   |2|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.48
+
+number of generation: 212
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.08
+
+number of generation: 213
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.09
+
+number of generation: 214
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.92
+
+number of generation: 215
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.8
+
+number of generation: 216
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.61
+
+number of generation: 217
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.8
+
+number of generation: 218
+
+best solution:
+|5|   |1|   |4|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.02
+
+number of generation: 219
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |4|   |2|   |5|   |3|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.9
+
+number of generation: 220
+
+best solution:
+|5|   |4|   |1|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.97
+
+number of generation: 221
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.38
+
+number of generation: 222
+
+best solution:
+|5|   |4|   |1|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.6
+
+number of generation: 223
+
+best solution:
+|5|   |4|   |1|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.49
+
+number of generation: 224
+
+best solution:
+|5|   |1|   |4|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.56
+
+number of generation: 225
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|2|   |3|   |1|   |5|   |4|   
+ v                       v    
+|1|   |4|   |5|   |2|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |5|   |1| < |3|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.69
+
+number of generation: 226
+
+best solution:
+|5|   |4|   |1|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.76
+
+number of generation: 227
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.65
+
+number of generation: 228
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|4|   |1|   |2|   |3| < |5|   
+                              
+|5|   |3|   |1| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.56
+
+number of generation: 229
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|4|   |1|   |2|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.29
+
+number of generation: 230
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.48
+
+number of generation: 231
+
+best solution:
+|5|   |2|   |1|   |4|   |3|   
+ v     ^           ^          
+|2|   |5|   |3|   |1|   |4|   
+ v                       v    
+|1|   |4|   |5|   |2|   |3|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.59
+
+number of generation: 232
+
+best solution:
+|5|   |4|   |1|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |3|   |5|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.92
+
+number of generation: 233
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.86
+
+number of generation: 234
+
+best solution:
+|5|   |4|   |1|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.74
+
+number of generation: 235
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.65
+
+number of generation: 236
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |4|   |5|   |2|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.59
+
+number of generation: 237
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|5|   |3|   |2|   |1|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.04
+
+number of generation: 238
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |4|   |5|   |2|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.52
+
+number of generation: 239
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |4|   |5|   |2|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.42
+
+number of generation: 240
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|1|   |4|   |3|   |2| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.84
+
+number of generation: 241
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.03
+
+number of generation: 242
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |5|   |2|   |1|   
+ v                       v    
+|3|   |5|   |4|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.03
+
+number of generation: 243
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 8.05
+
+number of generation: 244
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|1|   |5|   |3| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 8.07
+
+number of generation: 245
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.48
+
+number of generation: 246
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.59
+
+number of generation: 247
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.48
+
+number of generation: 248
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.34
+
+number of generation: 249
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|5|   |4|   |3|   |2|   |1|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.11
+
+number of generation: 250
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |4|   |1|   
+ v                       v    
+|1|   |4|   |3|   |2|   |5|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.9
+
+number of generation: 251
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.0
+
+number of generation: 252
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.13
+
+number of generation: 253
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.09
+
+number of generation: 254
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.77
+
+number of generation: 255
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.97
+
+number of generation: 256
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.13
+
+number of generation: 257
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.86
+
+number of generation: 258
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.04
+
+number of generation: 259
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.7
+
+number of generation: 260
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.83
+
+number of generation: 261
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.84
+
+number of generation: 262
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.74
+
+number of generation: 263
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|3|   |1|   |2|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.97
+
+number of generation: 264
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|3|   |1|   |2|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.13
+
+number of generation: 265
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.87
+
+number of generation: 266
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.83
+
+number of generation: 267
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.95
+
+number of generation: 268
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.69
+
+number of generation: 269
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|3|   |1|   |2|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.46
+
+number of generation: 270
+
+best solution:
+|2|   |5|   |4|   |1|   |3|   
+ v     ^           ^          
+|5|   |2|   |1|   |3|   |4|   
+ v                       v    
+|1|   |4|   |5|   |2|   |3|   
+                   ^          
+|3|   |1|   |2|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.48
+
+number of generation: 271
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.87
+
+number of generation: 272
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.82
+
+number of generation: 273
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|3|   |1|   |5|   |2|   |4|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.74
+
+number of generation: 274
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|3|   |1|   |5|   |2|   |4|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.55
+
+number of generation: 275
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.43
+
+number of generation: 276
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.73
+
+number of generation: 277
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|3|   |1|   |2|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.84
+
+number of generation: 278
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|5|   |4|   |3|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.15
+
+number of generation: 279
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.32
+
+number of generation: 280
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|5|   |3|   |4| < |1|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.44
+
+number of generation: 281
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|5|   |3|   |4| < |1|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.01
+
+number of generation: 282
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.28
+
+number of generation: 283
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.05
+
+number of generation: 284
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|5|   |2|   |4|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.18
+
+number of generation: 285
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|1|   |3|   |5|   |2|   |4|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.01
+
+number of generation: 286
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|1|   |3|   |5|   |2|   |4|   
+                   ^          
+|1|   |2|   |4|   |3| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.83
+
+number of generation: 287
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |4|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.32
+
+number of generation: 288
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.05
+
+number of generation: 289
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|5|   |2|   |4|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.92
+
+number of generation: 290
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.05
+
+number of generation: 291
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|5|   |2|   |4|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.91
+
+number of generation: 292
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |3|   |5|   |2|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.73
+
+number of generation: 293
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.83
+
+number of generation: 294
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.76
+
+number of generation: 295
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.77
+
+number of generation: 296
+
+best solution:
+|5|   |4|   |1|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.95
+
+number of generation: 297
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.21
+
+number of generation: 298
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.78
+
+number of generation: 299
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.83
+
+number of generation: 300
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.71
+
+number of generation: 301
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.4
+
+number of generation: 302
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.77
+
+number of generation: 303
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.08
+
+number of generation: 304
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.34
+
+number of generation: 305
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.2
+
+number of generation: 306
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.18
+
+number of generation: 307
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.84
+
+number of generation: 308
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.73
+
+number of generation: 309
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |4|   |3| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.74
+
+number of generation: 310
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|5|   |2|   |4|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.49
+
+number of generation: 311
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |4|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.8
+
+number of generation: 312
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |4|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.89
+
+number of generation: 313
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |4|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.15
+
+number of generation: 314
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |5|   |3|   |4| < |1|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.18
+
+number of generation: 315
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |4|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.51
+
+number of generation: 316
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |4|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.64
+
+number of generation: 317
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|1|   |5|   |2|   |3|   |4|   
+ v                       v    
+|1|   |2|   |5|   |4|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.54
+
+number of generation: 318
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.54
+
+number of generation: 319
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |4|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.64
+
+number of generation: 320
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.21
+
+number of generation: 321
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|5|   |2|   |4|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.31
+
+number of generation: 322
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |4|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.39
+
+number of generation: 323
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.56
+
+number of generation: 324
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.41
+
+number of generation: 325
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.58
+
+number of generation: 326
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.67
+
+number of generation: 327
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.58
+
+number of generation: 328
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.2
+
+number of generation: 329
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.05
+
+number of generation: 330
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.09
+
+number of generation: 331
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 7.37
+
+number of generation: 332
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.21
+
+number of generation: 333
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.8
+
+number of generation: 334
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |4|   |1|   |2|   |5|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.11
+
+number of generation: 335
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.63
+
+number of generation: 336
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.95
+
+number of generation: 337
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.6
+
+number of generation: 338
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|2|   |5|   |1|   |3|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.17
+
+number of generation: 339
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.78
+
+number of generation: 340
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.02
+
+number of generation: 341
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.09
+
+number of generation: 342
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.69
+
+number of generation: 343
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.7
+
+number of generation: 344
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.77
+
+number of generation: 345
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.8
+
+number of generation: 346
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.59
+
+number of generation: 347
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 6.43
+
+number of generation: 348
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.65
+
+number of generation: 349
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.6
+
+number of generation: 350
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|4|   |5|   |2|   |3|   |1|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.6
+
+number of generation: 351
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.85
+
+number of generation: 352
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.1
+
+number of generation: 353
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.9
+
+number of generation: 354
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.03
+
+number of generation: 355
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.32
+
+number of generation: 356
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.28
+
+number of generation: 357
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.61
+
+number of generation: 358
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.28
+
+number of generation: 359
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |4|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.86
+
+number of generation: 360
+
+best solution:
+|4|   |2|   |5|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|3|   |1|   |2|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.24
+
+number of generation: 361
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |4|   |3|   |5|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.19
+
+number of generation: 362
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.26
+
+number of generation: 363
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |1|   |5|   |3|   |4|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.03
+
+number of generation: 364
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |4|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.09
+
+number of generation: 365
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |1|   |5|   |3|   |4|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.25
+
+number of generation: 366
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |1|   |5|   |3|   |4|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.12
+
+number of generation: 367
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |4|   |5|   |3|   |2|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.44
+
+number of generation: 368
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.95
+
+number of generation: 369
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.23
+
+number of generation: 370
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |5|   |4| < |1|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.05
+
+number of generation: 371
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.95
+
+number of generation: 372
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.87
+
+number of generation: 373
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.67
+
+number of generation: 374
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.46
+
+number of generation: 375
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.63
+
+number of generation: 376
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |1|   |5|   |3|   |4|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.42
+
+number of generation: 377
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.5
+
+number of generation: 378
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|4|   |1|   |3|   |2| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.63
+
+number of generation: 379
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.45
+
+number of generation: 380
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.58
+
+number of generation: 381
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.72
+
+number of generation: 382
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.85
+
+number of generation: 383
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.9
+
+number of generation: 384
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|1|   |5|   |3|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.08
+
+number of generation: 385
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|1|   |5|   |3|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.91
+
+number of generation: 386
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|4|   |5|   |3|   |2|   |1|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 1
+average fitness grade: 6.41
+
+number of generation: 387
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|1|   |5|   |3|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.55
+
+number of generation: 388
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.53
+
+number of generation: 389
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.68
+
+number of generation: 390
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 6.8
+
+number of generation: 391
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.9
+
+number of generation: 392
+
+best solution:
+|4|   |5|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|3|   |2|   |5|   |4|   |1|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.76
+
+number of generation: 393
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.89
+
+number of generation: 394
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 6.5
+
+number of generation: 395
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|1|   |5|   |3|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.53
+
+number of generation: 396
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|1|   |2|   |5|   |3|   |4|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 6.66
+
+number of generation: 397
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|1|   |5|   |3|   |2|   |4|   
+ v                       v    
+|1|   |4|   |5|   |3|   |2|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.94
+
+number of generation: 398
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|1|   |5|   |3|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|3|   |2|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.41
+
+number of generation: 399
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|3|   |2|   |1|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.41
+
+number of generation: 400
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|4|   |2|   |5|   |1|   |3|   
+                   ^          
+|2|   |1|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.27
+
+number of generation: 401
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.13
+
+number of generation: 402
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|1|   |3|   |2|   |4| < |5|   
+                              
+|5|   |1|   |3| < |4|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.05
+
+number of generation: 403
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.11
+
+number of generation: 404
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |2|   |1|   |5|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|1|   |3|   |2|   |4| < |5|   
+                              
+|5|   |1|   |3| < |4|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 6.96
+
+number of generation: 405
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |4|   |5|   |3|   |2|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.11
+
+number of generation: 406
+
+best solution:
+|5|   |1|   |4|   |2|   |3|   
+ v     ^           ^          
+|1|   |5|   |3|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|3|   |2|   |1|   |4| < |5|   
+                              
+|4|   |3|   |1| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.13
+
+number of generation: 407
+
+best solution:
+|5|   |1|   |4|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|4|   |2|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.02
+
+number of generation: 408
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |3|   |5|   |4|   |1|   
+                   ^          
+|1|   |3|   |2|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.02
+
+number of generation: 409
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.16
+
+number of generation: 410
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.66
+
+number of generation: 411
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.57
+
+number of generation: 412
+
+best solution:
+|5|   |1|   |4|   |2|   |3|   
+ v     ^           ^          
+|3|   |5|   |2|   |1|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|1|   |4|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.53
+
+number of generation: 413
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|1|   |4|   |5|   |3|   |2|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 4
+average fitness grade: 7.51
+
+number of generation: 414
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|1|   |5|   |2|   |3|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|2|   |3|   |1|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.27
+
+number of generation: 415
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |1|   |5|   |3|   |4|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|1|   |3|   |4| < |5|   |2|   
+                              
+best fitness grade: 2
+average fitness grade: 7.34
+
+number of generation: 416
+
+best solution:
+|5|   |4|   |2|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |1|   |5|   |3|   |4|   
+                   ^          
+|1|   |2|   |3|   |4| < |5|   
+                              
+|3|   |1|   |4| < |5|   |2|   
+                              
+best fitness grade: 3
+average fitness grade: 7.19
+
+number of generation: 417
+
+best solution:
+|5|   |2|   |4|   |1|   |3|   
+ v     ^           ^          
+|3|   |5|   |1|   |2|   |4|   
+ v                       v    
+|2|   |4|   |5|   |3|   |1|   
+                   ^          
+|1|   |3|   |2|   |4| < |5|   
+                              
+|4|   |1|   |3| < |5|   |2|   
+                              
+best fitness grade: 0
+average fitness grade: 7.06
+
